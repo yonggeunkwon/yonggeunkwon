@@ -14,15 +14,6 @@ I'm Yonggeun Kwon</br>
 
 <a href="mailto:dydrms2900@gmail.com"><img src="https://img.shields.io/badge/dydrms2900@gmail.com-7346B2?style=flat&logo=Gmail&logoColor=white"/></a>
 
-<br>
-
-<a href="https://github.com/yonggeunkwon"><img align="center" alt="yonggeunkwon's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yonggeunkwon&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width="480" height="195" /></a>
-<a href="https://github.com/yonggeunkwon"><img align="center" alt="yonggeunkwon's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yonggeunkwon&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="350" height="195" /></a>
- 
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-<br>
-
 <div align = 'center'>
  <h3>Tech Stack</h3>
       <img src="https://img.shields.io/badge/HTML-000000?style=round-square&logo=HTML5&logoColor=red"/>
